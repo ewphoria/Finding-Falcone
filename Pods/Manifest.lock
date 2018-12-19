@@ -1,0 +1,87 @@
+PODS:
+  - CZPicker (0.4.3)
+  - Differentiator (3.1.0)
+  - MaterialComponents/AnimationTiming (48.0.0)
+  - MaterialComponents/Buttons (48.0.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Cards (48.0.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Icons/ic_check_circle
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Ink (48.0.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/Palettes (48.0.0)
+  - MaterialComponents/private/Application (48.0.0)
+  - MaterialComponents/private/Icons/Base (48.0.0)
+  - MaterialComponents/private/Icons/ic_check_circle (48.0.0):
+    - MaterialComponents/private/Icons/Base
+  - MaterialComponents/private/Math (48.0.0)
+  - MaterialComponents/ShadowElevations (48.0.0)
+  - MaterialComponents/ShadowLayer (48.0.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/TextFields (48.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (48.0.0):
+    - MaterialComponents/private/Application
+  - MDFInternationalization (1.0.4)
+  - MDFTextAccessibility (1.2.0)
+  - ObjectMapper (3.4.1)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CZPicker
+  - MaterialComponents/Buttons
+  - MaterialComponents/Cards
+  - MaterialComponents/TextFields
+  - ObjectMapper (~> 3.4)
+  - RxCocoa (~> 4.0)
+  - RxDataSources (~> 3.0)
+  - RxSwift (~> 4.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CZPicker
+    - Differentiator
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CZPicker: 55aa1751ea26e209814552da1a9a08cba8bbf72a
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  MaterialComponents: 540ef387fee311a1b4b3ccec93d4db6db35d24bf
+  MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 6e5cdf05dfa4fed6edc7af279754511248c9f2c9
+
+COCOAPODS: 1.5.3
